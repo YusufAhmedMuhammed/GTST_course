@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6126bed25f8a9dcb",
+        "id": "2fc02913315323bd",
         "type": "tabs",
         "children": [
           {
-            "id": "bcfe49ced15664f4",
+            "id": "89437b1cfebb776e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "day4_linuxadvanceduser.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day4_linuxadvanceduser"
             }
           }
         ]
@@ -161,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcfe49ced15664f4",
+  "active": "89437b1cfebb776e",
   "lastOpenFiles": [
+    "day4_linuxadvanceduser.md",
     "day_3 further on linux.md",
     "day 2 introduction.md",
     "Day3_linux_for_user.md",

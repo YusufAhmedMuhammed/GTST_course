@@ -34,9 +34,51 @@
               "icon": "lucide-file",
               "title": "day_6 finishing for linux"
             }
+          },
+          {
+            "id": "e72c354f9993b599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day_8 Python Programming Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day_8 Python Programming Basics"
+            }
+          },
+          {
+            "id": "b0ac0e5947838963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day_9 core python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day_9 core python"
+            }
+          },
+          {
+            "id": "8f6ab04ea3d0cc35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day_10 Python Advanced.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day_10 Python Advanced"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux_short_notes/day_6 finishing for linux.md",
+                "file": "day_10 Python Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for day_6 finishing for linux"
+              "title": "Backlinks for day_10 Python Advanced"
             }
           },
           {
@@ -128,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux_short_notes/day_6 finishing for linux.md",
+                "file": "day_10 Python Advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from day_6 finishing for linux"
+              "title": "Outgoing links from day_10 Python Advanced"
             }
           },
           {
@@ -157,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux_short_notes/day_6 finishing for linux.md",
+                "file": "day_10 Python Advanced.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of day_6 finishing for linux"
+              "title": "Outline of day_10 Python Advanced"
             }
           }
         ]
@@ -183,14 +225,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac3c0c601e4b4b6f",
+  "active": "8f6ab04ea3d0cc35",
   "lastOpenFiles": [
-    "linux_short_notes/day_5 Advanced Linux User!.md",
-    "linux_short_notes/Day4_linux_for_user.md",
+    "day_9 core python.md",
+    "day_10 Python Advanced.md",
     "linux_short_notes/day_6 finishing for linux.md",
+    "linux_short_notes/day_5 Advanced Linux User!.md",
+    "day_8 Python Programming Basics.md",
+    "linux_short_notes/Day4_linux_for_user.md",
+    "Python_short_notes",
     "linux_short_notes/day_7 further on linux.md",
     "linux_short_notes/day_3 intro to linux.md",
-    "linux_short_notes",
-    "Untitled"
+    "linux_short_notes"
   ]
 }

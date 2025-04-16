@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day_5 Advanced Linux User!.md",
+                "file": "linux_short_notes/day_5 Advanced Linux User!.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day_6 finishing for linux.md",
+                "file": "linux_short_notes/day_6 finishing for linux.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day_6 finishing for linux.md",
+                "file": "linux_short_notes/day_6 finishing for linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "day_6 finishing for linux.md",
+                "file": "linux_short_notes/day_6 finishing for linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "day_6 finishing for linux.md",
+                "file": "linux_short_notes/day_6 finishing for linux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,13 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7ccd5a930943f43",
+  "active": "ac3c0c601e4b4b6f",
   "lastOpenFiles": [
-    "day_5 Advanced Linux User!.md",
-    "Day3_linux_for_user.md",
-    "day_6 finishing for linux.md",
-    "day_4 further on linux.md",
-    "day_3 intro to linux.md",
+    "linux_short_notes/day_5 Advanced Linux User!.md",
+    "linux_short_notes/Day4_linux_for_user.md",
+    "linux_short_notes/day_6 finishing for linux.md",
+    "linux_short_notes/day_7 further on linux.md",
+    "linux_short_notes/day_3 intro to linux.md",
     "linux_short_notes",
     "Untitled"
   ]

@@ -1,4 +1,4 @@
-# **Advanced Linux User!**
+
 
 ## **1. Advanced User Management**
 - **Change user password:** `sudo passwd username`

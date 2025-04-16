@@ -11,7 +11,7 @@ Negative Indexing: Access items from the end.
 
 `print(languages[-1])  # Output: C++`
 
-Slicing: Extract sub-parts using [start:stop:step].
+Slicing: Extract sub-parts using [start:stop:step]
 
 `name = 'No 1 is Nathan'`
 `print(name[8:14])  # Output: Nathan`
